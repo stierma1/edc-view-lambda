@@ -1,0 +1,22 @@
+{
+  "name": "edc-view-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/edc-view-lambda.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stierma1/edc-view-lambda/issues"
+  },
+  "homepage": "https://github.com/stierma1/edc-view-lambda#readme",
+  "dependencies": {
+    "basic-distributed-computation": "^1.0.0"
+  }
+}
